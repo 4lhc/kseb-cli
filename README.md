@@ -7,7 +7,7 @@ The code is untested and there is no guarantee that it will not break when the w
 ### Installation
 ```bash
 
-git clone ""
+git clone "git@github.com:4lhc/kseb-cli.git"
 cd kseb-cli
 python3 -m venv kseb-cli #requires python3-venv
 pip install -r requirements.txt
