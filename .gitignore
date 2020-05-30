@@ -1,0 +1,6 @@
+bin
+*.log
+share
+lib*
+*.cfg
+*.pyc
