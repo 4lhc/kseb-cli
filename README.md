@@ -18,7 +18,7 @@ sudo apt install firefox-geckodriver
 ### Run
 ```bash
 
-python3 kseb-cli <customer-number>
+python3 kseb-cli.py <customer-number>
 
 ```
 ![Screenshot](./Screenshot.png)
